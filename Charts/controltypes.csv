@@ -1,0 +1,49 @@
+Order,Friendly Name,CF,Hardcoded Recognition,Name Pattern 1,Name Pattern 2,Image Tip,Buts,Dual,Sqr,Crs,Circ,Tri,L1,R1,L2,R2,Strt,Sel,1,2,3,4,Notes
+0,Default,,,___Default,,GENE,,,,,,,,,,,,,,,,,<do not delete>
+0,Keyboard,,DEVICE_CONF_KEYBOARD,___Keyboard,,KEYB,,,,,,,,,,,,,,,,,<do not delete>
+0,Mouse,,DEVICE_CONF_MOUSE,___Mouse,,KEYB,,,,,,,,,,,,,,,,,<do not delete>
+1,Gamepad Pro USB,42,,Garvis*Gamepad*Pro*,GamepadProUSB*,GPRO,10,,1,2,3,4,5,6,7,8,9,10,,,,,<do not delete>
+1,Gravis Destroyer Tiltpad,,,DestroyerTiltpad,,GPRO,7,,1,2,3,4,5,6,,,,,7,,,,<do not delete>
+1,Gravis Eliminator Aftershock,,DEVICE_CONF_ELAF,*EliminatorAftershock*,,GPRO,10,,1,2,3,4,5,6,7,8,9,10,,,,,<do not delete>
+1,Gravis Eliminator GamePad Pro,42,DEVICE_CONF_ELIM,*EliminatorGamePadPro*,,GPRO,10,,1,2,3,4,5,6,7,8,9,10,,,,,<do not delete>
+1,Gravis GamePad,40,,GravisGamePad,GamePad,GPRO,4,,1,2,3,,,4,,,,,,,,,<do not delete>
+1,Gravis GamePad Pro,42,,GravisGamePadPro*,,GPRO,10,,1,2,3,4,5,6,7,8,9,10,,,,,<do not delete>
+1,Gravis Xterminator,61,,*Xterminator*,,GPRO,11,,1,2,3,5,7,8,4,6,9,10,11,,,,Analog top triggers are not useable
+1,Interact 3D Program Pad,,,Interact3DProgramPad*,,GENE,10,,6,3,4,5,1,2,7,8,12,11,,,,,<do not delete>
+1,Interact Axis Pad,41,DEVICE_CONF_AXIS,*AxisPad*,,GENE,12+,,1,3,4,2,5,6,7,8,11,12,9,10,,,Reports lots more buttons than it has. L3/R3 buttons unusual on 9 and 10
+1,Interact/3Dfx SV-262A Hammerhead,,,InteractGamingDevice*,InterActHammerHeadFx*,GENE,10,,4,5,6,2,1,8,7,9,3,10,,,,,<do not delete>
+1,Saitek P880,,,*P880*,,GENE,12,1,1,2,3,4,5,6,7,8,9,10,11,12,,,Dual Analog with L3/R3 clicks
+1,Thrustmaster Wireless DT,,DEVICE_CONF_DUAL,*Wireless DT*,,GENE,12,1,1,2,3,4,5,6,7,8,9,10,11,12,,,Dual Analog with L3/R3 clicks
+1,Logitech Dual Action USB,42,DEVICE_CONF_AXIS,*Logitech Dual Action USB*,,WING,12,1,1,2,3,4,5,6,7,8,9,10,11,12,,,Dual Analog with L3/R3 clicks
+1,Logitech Cordless RumblePad 2 USB,,DEVICE_CONF_DUAL,*Logitech*RumblePad*,*Logitech*RumblePad*,WING,12,1,1,2,3,5,7,8,4,6,9,10,11,12,,,<do not delete>
+1,Logitech WingMan Action Pad,62,DEVICE_CONF_ACTN,*WingManActionPad*,,WING,9,,1,2,3,5,7,8,4,6,9,,,,,,<do not delete>
+1,Logitech WingMan GamePad,61,,LogitechWingManGamepad*,WingManGamepad,WING,11,,1,2,3,5,7,8,4,6,9,11,10,,,,<do not delete>
+1,Logitech WingMan GamePad,,,LogitechWingMan,WingMan,WING,11,,1,2,3,5,7,8,4,6,9,11,10,,,,<do not delete>
+1,Logitech WingMan GamePad Extreme,,,*WingMan*Gamepad*Extreme*,,WING,10,,1,2,3,5,7,8,4,6,9,10,,,,,<do not delete>
+1,Logitech WingMan Rumble Pad,,DEVICE_CONF_RMBL,*WingMan*RumblePad*,,WING,9+,,1,2,3,5,7,8,4,6,9,10,,,,,<do not delete>
+1,Logitech WingMan Rumble Pad,61,DEVICE_CONF_RMBP,WingmanRumad*,WingManble*,WING,9+,,1,2,3,5,7,8,4,6,9,,,,,,Stupid name
+1,Microsoft Sidewinder Dual Strike USB,41,,*SideWinder*Dual*Strike*,,SIDE,8+,,2,4,3,1,7,8,5,6,9,10,,,,,Ideally hat would be second stick
+1,Microsoft Sidewinder Free Style Pro,61,DEVICE_CONF_FREE,*FreeStylePro*,MicrosoftSidewinderFreeStylePro,SIDE,10,,1,2,3,5,7,8,4,6,9,10,,,,,<do not delete>
+1,Microsoft Sidewinder Gamepad Pro USBversion1.0,61,,*SideWinderGamePadProUSBversion1.0*,*SidewinderGamePadPro*,SIDE,9,,1,2,3,5,7,8,4,6,9,,,,,,<do not delete>
+1,Microsoft Sidewinder Gamepad USB version 1.0,61,,*SideWinderGamePadUSB*,*SideWinderGamePadUSBversion1.0*,SIDE,10,,1,2,3,5,7,8,4,6,9,10,,,,,<do not delete>
+1,Microsoft Sidewinder Plug & Play (6 buttons),41,,*Microsoft*SideWinder*Plug*&*Play*Game*Pad*,,SIDE,6+,,3,1,2,4,5,6,7,8,9,10,,,,,<do not delete>
+1,Nostromo n40 by Belkin,42,,*Nostromo*N40*,,GENE,8+,,3,1,2,4,5,7,6,8,9,10,,,,,<do not delete>
+1,Nostromo n45 by Belkin,,,*Nostromo*N45*,*4axis13buttongamepadwithhatswitch*,GENE,8+,1,3,1,2,4,5,7,6,8,9,10,,,,,<do not delete>
+1,Nostromo n50 by Belkin,a0,,*Nostromo*N5*,,GENE,10+,,9,4,10,5,8,3,7,2,6,1,,,,,<do not delete>
+1,PSX controller in via a MP-8866 Dual USB Joypad,42,DEVICE_CONF_MPSX,MP-8866Dual*,,GENE,12,1,4,3,2,1,7,8,5,6,9,10,11,12,,,PS2 Pad but crazy mappings
+1,Wingman Cordless Gamepad,62,DEVICE_CONF_CLRP,*Wingman*Cordless*Gamepad*,,WING,11,,1,2,3,5,7,8,10,11,9,,4,6,,,Odd having start before second wings
+1,WingMan Precision USB (Logitech),41,,*WingMan*Precision*,,WING,6,,3,1,2,4,5,6,,,,,,,,,Unusual button config
+1,ThrustMaster Rage 3D game pad,61,,*Thrustmaster*Rage*3D*,,WING,10,,1,2,3,5,9,10,4,6,7,8,,,,,<do not delete>
+2,Interact GoPad,,,*Interact*Go*Pad*,*Interact*,GENE,8+,,4,5,6,2,7,8,1,9,3,10,,,,,<do not delete>
+2,Microsoft Sidewinder Gamepad,61,,*MicrosoftSideWindergamepad*,*MicrosoftSideWinder*,SIDE,10,,1,2,3,5,7,8,4,6,9,10,,,,,<do not delete>
+10,Gravis Destroyer,40,,GravisDestroyer*,,GENE,4,,1,2,3,,,4,,,,,,,,,<do not delete>
+10,Microsoft and Sidewinder Controller (6),,,*Sidewinder*,*Microsoft*,SIDE,6,,3,1,2,4,5,6,,,,,,,,,<do not delete>
+100,Eliminator Controller,,,*Eliminator*,,GENE,6+,,1,2,3,4,5,6,7,8,9,10,,,,,<do not delete>
+100,Gravis Xterminator Controller,,,*Xterminator*,*Gravis*,GPRO,6+,,1,2,3,5,7,8,4,6,9,10,,,,,<do not delete>
+100,Logitech and Wingman Controllers with 9 or more buttons,,,*Wingman*,*Logitech*,WING,6+,,1,2,3,5,7,8,4,6,9,10,,,,,<do not delete>
+100,Microsoft and Sidewinder Controller (7+),,,*Sidewinder*,*Microsoft*,SIDE,7+,,1,2,3,5,7,8,4,6,9,10,,,,,<do not delete>
+200,4-button,,,*,*,GENE,4,,1,2,3,,,4,,,,,,,,,<do not delete>
+200,5-button,,,*,*,GENE,5,,1,2,3,4,,5,,,,,,,,,<do not delete>
+200,6-button,,,*,*,GENE,6,,1,2,3,5,4,6,,,,,,,,,<do not delete>
+200,7-button,,,*,*,GENE,7,,1,2,3,5,4,6,,,7,,,,,,<do not delete>
+200,8-button,,,*,*,GENE,8+,,1,2,3,5,7,8,4,6,9,10,,,,,<do not delete>

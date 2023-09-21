@@ -1,0 +1,4 @@
+Name    Age   Gender
+Adil    23    Male
+Ahmad   25    Male
+Ahmad   20    Male
